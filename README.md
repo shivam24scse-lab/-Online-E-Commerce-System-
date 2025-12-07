@@ -30,6 +30,18 @@ This repository contains comprehensive documentation for the Online E-Commerce S
    - Implementation phases
    - Success metrics and KPIs
 
+5. **[SYSTEM_DIAGRAMS.md](SYSTEM_DIAGRAMS.md)** - Visual diagrams and flowcharts
+   - System architecture diagram
+   - User flow diagrams
+   - Admin workflow
+   - Technology stack visualization
+
+6. **[QUICK_START.md](QUICK_START.md)** - Quick start guide
+   - 5-minute quick start options
+   - Design quick tips
+   - Common questions and answers
+   - Delivery tips and checklist
+
 ## 🎯 Project Goals
 
 - **Save Time**: Reduce shopping and management time by 70%
@@ -58,10 +70,14 @@ This repository contains comprehensive documentation for the Online E-Commerce S
 
 ### Creating a Presentation:
 
+**New to this?** Start with [QUICK_START.md](QUICK_START.md) for immediate guidance!
+
+**Full Process:**
 1. Read [PRESENTATION.md](PRESENTATION.md) for the slide content
 2. Review [PRESENTATION_SPEAKER_NOTES.md](PRESENTATION_SPEAKER_NOTES.md) for delivery guidance
-3. Follow [PPT_CREATION_GUIDE.md](PPT_CREATION_GUIDE.md) to create your PowerPoint
-4. Refer to [PROJECT_OVERVIEW.md](PROJECT_OVERVIEW.md) for detailed project information
+3. Use [SYSTEM_DIAGRAMS.md](SYSTEM_DIAGRAMS.md) for visual elements
+4. Follow [PPT_CREATION_GUIDE.md](PPT_CREATION_GUIDE.md) to create your PowerPoint
+5. Refer to [PROJECT_OVERVIEW.md](PROJECT_OVERVIEW.md) for detailed project information
 
 ### Quick Presentation Creation:
 
